@@ -1,5 +1,11 @@
 [
   {
+    "home": "Real_Madrid",
+    "away": "Bayern_Munich",
+    "score": "0-2",
+    "timestamp": "2025-10-24T08:26:30.163Z"
+  },
+  {
     "home": "Barcelona",
     "away": "Real_Madrid",
     "score": "3-0",
